@@ -1,4 +1,5 @@
 #include <iostream>
+// Divisor of two numbers/=.
 #include <cstdlib>
 using namespace std;
 int main()
