@@ -1,3 +1,4 @@
+// Encode message using logic given.
 #include <iostream>
 #include <string.h>
 using namespace std;
